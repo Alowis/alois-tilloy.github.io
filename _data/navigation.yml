@@ -14,14 +14,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Sofwares"
+    url: /softwares/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Usefull sites"
+    url: /usefull-sites/
     
   - title: "CV"
     url: /cv/
